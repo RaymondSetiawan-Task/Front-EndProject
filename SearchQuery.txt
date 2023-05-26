@@ -1,1 +1,9 @@
+Search Query pada front end 
+pertama saya melakukan pencarian mengenai react-native dan menginstallnya
+setelah itu saya mencari di Search engine 
+- bagaimana pick picture in gallery dan camera di react-native
+- bagaimana mengatur container
+- bagaimana menginstall yarn react-native-image-picker
+- bagaimana menginstall yarn stack navigator dengan yarn add @react-navigation/stack
+
 
